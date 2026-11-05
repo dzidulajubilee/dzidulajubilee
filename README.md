@@ -1,4 +1,4 @@
-<a href="https://dzidulajubilee.github.io"><img src="banner.png" width="100%" alt="Dzidula Gati, network and security engineer. A 3D render of a segmented office network: internet, firewall and switch feeding separate staff, servers and visitors groups."></a>
+<a href="https://dzidulajubilee.github.io"><picture><source media="(prefers-reduced-motion: reduce)" srcset="banner.png"><img src="banner.webp" width="100%" alt="Dzidula Gati, network and security engineer. A 3D render of an enterprise campus network: two ISPs, a firewall pair, two core switches, access switches, office floors, Wi-Fi and a server room. The active firewall fails and traffic reroutes through the standby."></picture></a>
 
 I design and build networks for organisations, secure the systems on them, and write the disaster recovery plans that get a site back up when something fails. When off-the-shelf tools don't fit, I write my own. Most of them end up here, open source and self-hosted.
 
