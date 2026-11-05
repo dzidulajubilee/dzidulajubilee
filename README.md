@@ -2,7 +2,7 @@
 
 I design and build networks for organisations, secure the systems on them, and write the disaster recovery plans that get a site back up when something fails. When off-the-shelf tools don't fit, I write my own. Most of them end up here, open source and self-hosted.
 
-**Portfolio** [dzidulajubilee.github.io](https://dzidulajubilee.github.io) &nbsp;·&nbsp; **Email** [dzidulajubilee@gmail.com](mailto:dzidulajubilee@gmail.com)
+**Portfolio** [dzidulajubilee.github.io](https://dzidulajubilee.github.io) &nbsp;·&nbsp; **Email** [dzidulajubilee@gmail.com](mailto:dzidulajubilee@gmail.com) &nbsp;·&nbsp; **LinkedIn** [dzidula-g-52b938205](https://www.linkedin.com/in/dzidula-g-52b938205)
 
 ### Security tooling
 
